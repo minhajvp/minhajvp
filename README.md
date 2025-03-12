@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @minhajvp
-- 👀 I’m interested in technological areas
-- 🌱 I’m currently learning new technologies
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me on minhajomy@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Im Minhaj Vp
+💻 Python | Django Developer | Backend Enthusiast  
+🔧 Building scalable web apps with Django & REST APIs  
+🚀 Passionate about clean code, automation, and problem solving  
+📚 Currently learning: Django REST Framework | PostgreSQL | Deployment  
+🌱 Open to collaborations and freelance Django projects  
 
 <!---
 minhajvp/minhajvp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
